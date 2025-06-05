@@ -69,9 +69,9 @@ export default function Cafe() {
                             </Carousel>
                         </div>
                         <div className='offset-md-4 w-100 px-5 d-flex flex-items-start'>
-                            <Button className="mt-2 fw-2 ms-4 rounded-1 text-light py-2 px-4" variant="dark">
+                            {/* <Button className="mt-2 fw-2 ms-4 rounded-1 text-light py-2 px-4" variant="dark">
                                 Orders here!
-                            </Button>
+                            </Button> */}
                         </div>
                     </Col>
                     <Col lg={6} className='px-lg-0'>
@@ -92,9 +92,9 @@ export default function Cafe() {
                             </Carousel>
                         </div>
                         <div className='mb-5'>
-                            <Button className="rounded-1" variant="danger">
+                            {/* <Button className="rounded-1" variant="danger">
                                 Orders here!
-                            </Button>
+                            </Button> */}
                         </div>
                     </Col>
                 </Row>
