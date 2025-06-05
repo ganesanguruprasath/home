@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.6a533dd7.css",
+    "main.js": "/home/static/js/main.6032699f.js",
+    "static/js/488.3f432bca.chunk.js": "/home/static/js/488.3f432bca.chunk.js",
+    "static/media/6769791-uhd_3840_2160_24fps.mp4": "/home/static/media/6769791-uhd_3840_2160_24fps.e4730e941ecee8f410ec.mp4",
+    "static/media/11903942_2160_3646_60fps.mp4": "/home/static/media/11903942_2160_3646_60fps.7d2a1bb6d859c2f28605.mp4",
+    "static/media/shopping-carts-facing-each-other.jpg": "/home/static/media/shopping-carts-facing-each-other.77e9c6ebf44514a9fd97.jpg",
+    "static/media/yanapi-senaud-6HR8vpjYUHo-unsplash.jpg": "/home/static/media/yanapi-senaud-6HR8vpjYUHo-unsplash.7b4aae9771806babecdb.jpg",
+    "static/media/hannah-busing-Zyx1bK9mqmA-unsplash.jpg": "/home/static/media/hannah-busing-Zyx1bK9mqmA-unsplash.0a9674843e3c12829324.jpg",
+    "static/media/louis-hansel-qoPAjwEiUmg-unsplash.jpg": "/home/static/media/louis-hansel-qoPAjwEiUmg-unsplash.2ac2e307bd49719016a8.jpg",
+    "static/media/kayleigh-harrington-yhn4okt6ci0-unsplash.jpg": "/home/static/media/kayleigh-harrington-yhn4okt6ci0-unsplash.b314197b6f2f325f9ee5.jpg",
+    "static/media/shane-rounce-DNkoNXQti3c-unsplash.jpg": "/home/static/media/shane-rounce-DNkoNXQti3c-unsplash.5222976cbfc39cf95591.jpg",
+    "static/media/hero-1.jpg": "/home/static/media/hero-1.89d02f3cc11d59594832.jpg",
+    "static/media/ante-samarzija-lsmu0rUhUOk-unsplash.jpg": "/home/static/media/ante-samarzija-lsmu0rUhUOk-unsplash.9ddf67e141a9eca1c04d.jpg",
+    "static/media/10f8be102612719.5f3ab4f78d2bf.jpg": "/home/static/media/10f8be102612719.5f3ab4f78d2bf.651e042182fc4a2fac4a.jpg",
+    "static/media/imad-786-cuFQNZXdQ8g-unsplash.jpg": "/home/static/media/imad-786-cuFQNZXdQ8g-unsplash.4b709977bf42400fcc4d.jpg",
+    "static/media/95014e102612719.5f3ab4f78dd07.jpg": "/home/static/media/95014e102612719.5f3ab4f78dd07.f8a4a09b7b8bd06dc414.jpg",
+    "static/media/2.png": "/home/static/media/2.1fb29f64821ce58871ba.png",
+    "index.html": "/home/index.html",
+    "main.6a533dd7.css.map": "/home/static/css/main.6a533dd7.css.map",
+    "main.6032699f.js.map": "/home/static/js/main.6032699f.js.map",
+    "488.3f432bca.chunk.js.map": "/home/static/js/488.3f432bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a533dd7.css",
+    "static/js/main.6032699f.js"
+  ]
+}
