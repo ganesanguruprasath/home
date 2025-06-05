@@ -1,13 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: 'Funnel Display', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Quintessential'
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #2d2d2d !important;
+}
+
+.custom-font {
+  font-family: 'Funnel Display', Courier, monospace;
+}
+
+.custom-font-two {
+  font-family: 'Quintessential', Courier, monospace;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.secondary-bg-color {
+  background: #efdbc6;
+}
+
+.highlight-bg-color {
+  background: #d30f0f;
+}
+
+.secondary-bg-color-gradient {
+  background: linear-gradient(to bottom, #efdbc6, #efd7bd)
+}
+
+.hero-min-window,
+.explore-block {
+  min-height: 20vh !important;
+}
+
+/* .explore-block{
+  min-height: 70vh !important;
+} */
+
+.hero-bg-small {
+  background-image: url("./assets/hero-1.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+}
+
+.explore-section-tab {
+  background-image: url("./assets/louis-hansel-qoPAjwEiUmg-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.store-hero-content {
+  background-image: url("./assets/kayleigh-harrington-yhn4okt6ci0-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.explore-merch-tab-one {
+  background-image: url("./assets/95014e102612719.5f3ab4f78dd07.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.explore-merch-tab-two {
+  background-image: url("./assets/10f8be102612719.5f3ab4f78d2bf.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.explore-history-tab {
+  background-image: url("./assets/shane-rounce-DNkoNXQti3c-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.explore-store-tab {
+  background-image: url("./assets/ante-samarzija-lsmu0rUhUOk-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.explore-merch-tab-one,
+.explore-merch-tab-two {
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.feedbacktab {
+  background-image: url("./assets/hannah-busing-Zyx1bK9mqmA-unsplash.jpg");
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero-bg-small .hero-bg-small-content {
+  /* background-color: #736f6f45 ; */
+  background: linear-gradient(to bottom, #0000008c, #efd7bd00);
+}
+
+/* within code */
+.carousel .carousel-indicators,
+.carousel-control-prev,
+.carousel-control-next {
+  display: none !important;
 }
